@@ -1,0 +1,11 @@
+MicroService Backend Concepts
+
+Event Loop
+Stream
+Buffer
+cors
+api verioning/header versioning / content-type versioning
+express rate limit 
+custom middleware
+Error Handler
+work on routes-----
